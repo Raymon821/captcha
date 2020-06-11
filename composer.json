@@ -1,10 +1,14 @@
 {
     "name": "raymon/captcha1",
+    "description": "hahaha",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "raymon",
             "email": "1536252162@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
