@@ -1,0 +1,10 @@
+{
+    "name": "raymon/captcha",
+    "authors": [
+        {
+            "name": "raymon",
+            "email": "1536252162@qq.com"
+        }
+    ],
+    "require": {}
+}
